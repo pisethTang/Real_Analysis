@@ -74,3 +74,8 @@ int main(int argc, char** argv){
     
     return 0;
 }
+
+/*
+Inject LaTeX code to transform table into a beautifully type-set visual. 
+
+ */
